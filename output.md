@@ -3,7 +3,7 @@
 ## Anno di rendicontazione :2022
 
 |Valuta di rendicontazione : EUR/n| Report EFPA |  |  |  |  |  |  |  | Data di pubblicazione : 13/01/2023 v65 |  |  |  |  |  |
-| :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: | :--: |
+|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|--|
 | Nome completo | HCP: località in cui è svolta l'attività professionale prevalente | Racione in cui è | Indirizzo in cui è svolta l'attività professionale | Codice Identificativo Unico | Durazioni e Costrizioni Liberati e HCD | Voci di spesa relative ai costi dell'evento |  |  |  | Contigettivo per servizi e consultorai |  |  | Totale |
 |  |  |  |  |  |  | Orari da contratti con HCD e Tarte Perti sostenute da HCD per gestire un evento | Spese di registrazione | Viaggio & Altraggio |  | Contigettivo | Spese |  |  |
 | Manifestazioni individuali nominative - I' rigs per classori singani HCP Tutti i trasferimenti di valore verso lo stesso soggetto nell'atto dell'anno verranno sommati; if dettaglio verrà reso disponibile solo all'interessato o alle autorità a norma di legge |  |  |  |  |  |  |  |  |  |  |  |  |  |
